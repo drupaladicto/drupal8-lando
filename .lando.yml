@@ -1,0 +1,23 @@
+name: drupal8_lando
+recipe: drupal8
+config:
+  webroot: web
+  php: '7.4'
+  composer_version: '2.0.7'
+  via: apache
+  drush: false
+  xdebug: false
+
+proxy:
+  appserver:
+    - midrupal8.lndo.site
+
+services:
+  midrupal8:
+    type: mariadb
+    portforward: true
+    creds:
+      user: midrupal8
+      password: midrupal8
+      database: midrupal8
+
