@@ -29,6 +29,7 @@ Instalación
 ----------------
 1.- Clonar el repositorio
 
+git clone https://github.com/drupaladicto/drupal8-lando.git
 
 2.- Arrancar el lando, con el comando
 
