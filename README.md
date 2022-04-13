@@ -25,19 +25,24 @@ Instalación
 ----------------
 1.- Clonar el repositorio
 
+
 2.- Arrancar el lando, con el comando
 
     lando start
+
 
 3.- Descargar las dependencias conel Composer
 
     lando composer update
 	
+
 4.- Configurar el archivo settings.php
+
 
 5.- Importar la base de datos
 
     lando db-import drupal8_lando.sql
+
 
 6.- Acceder a la web
 	
