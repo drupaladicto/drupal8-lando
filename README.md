@@ -1,4 +1,4 @@
-# symfony2-lando
+# Drupal 8 - Lando
 Drupal 8 Ready to Use Project with Lando
 
 Descripción
