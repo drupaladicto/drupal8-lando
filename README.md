@@ -8,9 +8,13 @@ Proyecto Drupal 8 de Ejemplo, ideal para comenzar a trabajar con Lando.
 #Contenido:
 
 1.- Todos los archivos de un proyecto Drupal 8 Base, listo para funcionar
+
 2.- Los archivos para un tema personalizado, basado en Bartik, para que puedas comenzar a jugar con los CSS
+
 3.- La base de datos de un proyecto Drupal nuevo
+
 4.- Los módulos principales activados y configurados: (Admin Toolbar, Pathauto)
+
 5.- El archivo de Lando, para que puedas poner en marcha en pocos minutos tu proyecto y además podrás ejecutar lando drush y lando composer, entre otros.
 
 Video y documentación de Instalación
