@@ -1,0 +1,10 @@
+name: Drupal 8 Subtheme
+description: Subteme Based on Bartik Theme
+type: theme
+
+core_version_requirement: ^8.8 || ^9.0
+
+base theme: bartik
+
+libraries:
+  - 'drupal8_subtheme/global-styling'
